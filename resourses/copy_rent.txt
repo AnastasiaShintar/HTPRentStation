@@ -1,0 +1,4 @@
+Mike, 18.11.2017-11:00, water skiing, 3.2
+Mike, 18.11.2017-01:00, wakeboard, 3.1
+Nastya, 18.11.2017-11:00, water skiing, 3.2
+Nastya, 18.11.2017-01:00, wakeboard, 3.1

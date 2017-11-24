@@ -1,0 +1,10 @@
+skiing, 2.5
+snowboard, 2.6
+skates, 1.8
+tubing, 2.3
+water skiing, 3.2
+wakeboard, 3.1
+bicycle, 2.8
+scooter, 3.3
+ball, 0.7
+rollers, 1.7
