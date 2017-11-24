@@ -47,8 +47,9 @@ public class RentUnit {
     public String toString() {
         return "[customer: " + userName + "] "
                 + equipment
-                + " / fine = " + String.format("%.1f", getFine())
-                + " / totalCost = " + String.format("%.1f", getTotalCost())
-                + " / rentDate: " + new SimpleDateFormat(Util.DATEFORMAT).format(rentDate);
+                + " / fine = " + String.format("%.2f", getFine())
+                + " / totalCost = " + String.format("%.2f", getTotalCost())
+                + " / rentDate: " + new SimpleDateFormat(Util.DATEFORMAT).format(rentDate)
+        		+ " / hoursInterval: " + Util.getHoursInterval(rentDate);
     }
 }
